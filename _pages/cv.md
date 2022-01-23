@@ -17,10 +17,9 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - Actual: Machine Learning Engineer
+
+Researches, develops and integrates new Machine Learning solutions with a focus on Natural Language Processing, creates pipelines for data extraction, transformation and storage. Coordinates activities with research groups associated to the project.
 
 * Fall 2015: Research Assistant
   * Github University
